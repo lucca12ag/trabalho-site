@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    padding: 0;
+    background-color:peachpuff;
+}
+.container {
+  display: block;
+  justify-content: center;
+   
+}
+.item {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+form{
+    text-align: center;
+}
+
+
+.item img {
+   width: 300px;
+   margin-left: auto;
+   flex: 1;
+   margin-right: 50px;
+   margin-left: 50px;
+    height: auto;
+    border: 20px;
+    border-style: groove;
+    border-color:  rgb(114, 81, 37) ;
+}
+.item h2 {
+    margin-top: 0;
+}
+.item p {
+    margin-bottom: 10px;
+    text-align: center;
+   
+}
+p1{
+    text-align: center;
+}
+p2{
+    text-align: center;
+}
